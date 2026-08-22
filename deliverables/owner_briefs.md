@@ -42,7 +42,7 @@ Fakta paling mendesak minggu ini: **APKASI Otonomi Expo 2026 tanggal 27–29 Agu
 1. **APKASI Otonomi Expo minggu depan (27-29 Agustus) adalah momen paling krusial** — follow-through on-site di situ lebih penting dari apapun di gambaran tren.
 2. **Pasar event 2026 terbelah dua:** MICE pemerintah kolaps (-60-65% Q1 2026 gara-gara kebijakan efisiensi anggaran, transfer daerah dipotong 25%), tapi event swasta/konsumer justru tumbuh kuat (industri exhibition +15%; Jakarta Kreatif Festival transaksi Rp 55M vs Rp 21M tahun 2025). **Pivot ke event tervalidasi — asal targetnya bazaar/brand/kampus/pop-culture organizer, bukan budget pemda.**
 3. **Ada koridor demand Jabodetabek yang nyambung terus dari September sampai Desember**, pas dengan target Rp 100jt: cluster expo JIExpo (awal Sep) → Pestapora 25-27 Sep → Comic Con PIK2 3-4 Okt → Comifuro 31 Okt-1 Nov → INTEX/Homelife akhir Nov → gelombang bazaar akhir tahun Desember. PKKMB 2026 baru aja selesai — main kampus sekarang berarti festival Sep-Des, bukan PKKMB (itu target 2027).
-4. **Segmen film emang lagi lesu** (admisi bioskop H1 2026 turun 16,7%) — mendukung keputusan deprioritas film. IFFa (portal lokasi pemerintah) confirmed dormant.
+4. **Segmen film emang lagi lesu** (admisi bioskop H1 2026 turun 16,7%) — mendukung keputusan deprioritas film. IFFa (portal lokasi pemerintah) tidak menunjukkan aktivitas apa pun sejak peluncuran 2023–24 — praktis dormant (status situsnya sendiri belum diverifikasi langsung).
 5. **Ada tailwind:** subvendor MICE lagi kena layoff → kapasitas subvendor jadi lebih murah dan gampang dikunci sekarang; harga paket EO naik 10-15% YoY → gak perlu diskon.
 
 ---
