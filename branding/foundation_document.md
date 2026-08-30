@@ -58,29 +58,33 @@ Orang produksi yang butuh lokasi, crew, catering, dan transport untuk syuting. S
 
 ---
 
-## Voice Rules
+## Voice Rules ✅ LOCKED
+
+**Ritme:** Sedang — jelas tapi menjelaskan. Bukan sesingkat bullet, tapi setiap kalimat ada isinya; konteks dijelaskan secukupnya, tidak berputar.
+
+**Register:** Bahasa Indonesia semi-formal untuk segmen event ("Anda", sopan tanpa kaku) — aman untuk panitia yang belum kenal, dan konsisten dengan posisi "yang memastikan". Segmen film boleh English-forward dengan kosakata insider, karena ICP-nya memang berbahasa itu.
 
 **Always:**
-- Short, direct sentences. Bahasa Indonesia-first for event-segment material; English/insider vocabulary is fine for film-segment material.
-- Say the real problem and the real fix plainly — no manufactured drama, no poetic flourish.
-- Lead price/package conversations with a short coordination/trust line before the numbers — not straight into commodity pricing with nothing to justify the choice.
-- Credit the business co-founder as **"Co-Founder"** — never "CFO."
-- Where formal film-industry education/background is mentioned, keep it a brief credibility signal woven in, not the headline pitch.
+- Kalimat jelas dan menjelaskan — sampaikan masalah dan solusinya apa adanya, tanpa drama buatan atau bahasa puitis.
+- Buka dengan jaminan hari-H dan kejelasan biaya; koordinasi satu operasi disampaikan sebagai **alasan** kenapa jaminan itu bisa dipegang, bukan sebagai pembuka.
+- Buktikan dengan angka dan rekam jejak, bukan dengan perasaan (15 bulan operasi, ROI 5,4x, repeat rate 29%, vendor dibayar tepat waktu). Ini eksekusi gaya Volvo dari archetype Caregiver.
+- Sebut co-founder bisnis sebagai **"Co-Founder"** — tidak pernah "CFO".
+- Latar pendidikan film disebut sepintas sebagai sinyal kredibilitas, bukan sebagai jualan utama.
 
 **Never:**
-- Never call Durent a "platform" or "ecosystem" — it's a coordinated operation/system, not software.
-- Never dramatize the origin story into a manufactured scene ("jam 11 malam," invented dialogue) — it reads as fake. Plain and formal beats poetic.
-- Never use "one-stop" / "semua kebutuhan dalam satu tempat" as the headline positioning claim — it's category wallpaper (every competitor already says it).
-- Never lead with formal education or the MangDang producer credit as the main sell — brief mention only.
-- Never mention the "lulus 3,5 tahun" graduation-requirement detail, in any version, at any depth.
-- Never claim "embedded supplier" as a market position Durent already holds — it's a relationship promise made to a specific repeat client going forward, not a headline claim to a first-time prospect.
+- Jangan sebut Durent "platform" atau "ekosistem" — ini operasi/sistem, bukan software.
+- Jangan dramatisir origin story jadi adegan karangan ("jam 11 malam", dialog rekaan) — terdengar palsu. Apa adanya mengalahkan puitis.
+- Jangan pakai "one-stop" / "semua kebutuhan dalam satu tempat" sebagai klaim utama — itu wallpaper kategori, semua kompetitor sudah memakainya.
+- Jangan jadikan pendidikan formal atau kredit produser MangDang sebagai jualan utama — sebut sepintas saja.
+- Jangan sebut detail "syarat lulus 3,5 tahun" di versi mana pun.
+- Jangan klaim "embedded supplier" sebagai posisi pasar yang sudah dipegang — itu janji hubungan ke klien repeat tertentu, bukan klaim ke prospek baru.
 
 **Reference voice:**
-- On-brand: *"Satu tim, satu koordinasi, buat semua kebutuhan fisik acara lo — tenda, HT, konsumsi, sampai transport."*
-- Off-brand: *"Kami adalah platform ekosistem terintegrasi yang menghadirkan solusi holistik untuk seluruh kebutuhan event Anda."* (buzzwordy, sounds like nobody actually talking)
+- On-brand: *"Hari-H acara Anda kami pastikan aman. Tenda, HT, crew, konsumsi, sampai transport dijalankan satu tim yang saling terhubung — bukan lima vendor yang harus Anda koordinasi sendiri. Rincian harganya bisa kami susun sesuai kebutuhan acaranya."*
+- Off-brand: *"Kami adalah platform ekosistem terintegrasi yang menghadirkan solusi holistik untuk seluruh kebutuhan event Anda."* (buzzword, tidak terdengar seperti manusia bicara)
 
-**CTA style:** Direct and short. *"Satu chat, semua kebutuhan event lo kelar."* / *"Kontak kami buat quote."* No fluff, no forced urgency.
+**CTA style:** Ajak chat langsung — komitmen rendah, pintu masuk mudah. *"Chat kami, ceritakan kebutuhan acaranya."* Tanpa urgensi yang dibuat-buat.
 
 ---
 
-**Next step per the Brain System:** feed this document into the Visual Brain Builder → `branding/visual_brain.md` (done, see that file). Once both exist, the One Prompt is ready to run whenever there's a source article and brand images to turn into a week of content.
+**Next step per the Brain System:** feed this document into the Visual Brain Builder → `branding/visual_brain.md`. Catatan: `visual_brain.md` masih dibangun dari draft Foundation yang lama — perlu ditinjau ulang terhadap Identity/Audience/Voice yang sudah dikunci di atas, terutama (a) ketegangan palet gold vs archetype Caregiver-grounded, (b) register yang sekarang semi-formal "Anda", bukan "lo", dan (c) arahan imagery yang sekarang tegas: dokumentasi lapangan asli, bukan foto stock. Setelah itu barulah One Prompt siap dijalankan.
