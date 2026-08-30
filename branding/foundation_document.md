@@ -30,21 +30,31 @@ Ada bumbu tipis *Hero* di origin story (melihat masalah nyata di lapangan, lalu 
 
 ---
 
-## Audience
+## Audience ✅ LOCKED (fase 1)
 
-**Primary (event segment — current priority):** The person on an event committee actually responsible for making the physical side of the event happen — a bazaar organizer, a campus event committee member, an expo/venue coordinator. Not the person choosing a "brand vibe" — the person who gets blamed if the tent doesn't show up. They usually don't have their own vendor network; they're assembling one from scratch, under a deadline, often for the first or second time.
+Dua audiens, satu per segmen. Keduanya sama-sama orang yang **bertanggung jawab supaya sisi fisik acara/produksi berjalan** — bukan orang yang milih "vibe brand".
 
-**Main frustration:** Vendor fatigue. Chasing separate quotes from a tenda guy, an HT guy, a catering vendor, a transport guy — none of whom talk to each other or coordinate — and worrying something falls through the crack between them right before the event, or that a vendor who already has the DP goes quiet.
+**A. Panitia/EO non-profesional (segmen event — prioritas sekarang)**
+Orang di kepanitiaan yang ngurus acara sambil pekerjaan atau kuliah utamanya tetap jalan — panitia bazaar, kepanitiaan kampus, panitia acara kantor atau komunitas. Baru pertama atau kedua kali pegang acara sebesar ini, belum punya jaringan vendor sendiri, dan lagi menyusunnya dari nol di bawah tenggat. Dialah yang disalahkan kalau tendanya tidak datang.
 
-**What they actually want:** Not the cheapest quote — reliability and one point of contact. One team they can call who just handles it, so they can stop being the coordination layer themselves.
+**B. Production manager / UPM (segmen film)**
+Orang produksi yang butuh lokasi, crew, catering, dan transport untuk syuting. Sudah paham alurnya, kosakatanya insider, dan menilai vendor dari kecepatan respons serta ketepatan eksekusi.
 
-**How they actually talk about it** (real register, not idealized):
-- "Cape banget nyari vendor satu-satu."
-- "Yang penting jangan sampe pas hari H malah kacau."
-- "Udah standar aja yang penting on time."
-- "Vendor giliran udah pegang DP suka susah dihubungin."
+> **Catatan strategis — ini pilihan FASE, bukan permanen.** Panitia non-profesional dipilih lebih dulu secara sadar: paling mudah diakses, paling butuh Durent, dan paling cepat menghasilkan portofolio serta cashflow. Kredensial dari sini yang nantinya dipakai untuk naik ke EO profesional dan klien institusional yang ticket size-nya lebih besar. Risiko yang harus diakui sejak awal: segmen ini daya belinya terbatas (rata-rata job masih Rp1,7jt, sementara kelas bundle yang dituju Rp18jt+) dan rawan batal di tengah jalan — dua deal besar yang nyaris closing gagal persis karena panitia berubah kebijakan atau menghilang. Jadi perlakukan ini sebagai tangga, bukan tujuan akhir, dan jangan bangun struktur biaya yang mengasumsikan segmen ini akan selamanya jadi sumber utama.
 
-**Visual taste [assume — confirm]:** Responds to proof of execution over polish — real on-site photos, package/price tables, before/during-event documentation — more than styled stock photography or motivational-poster energy.
+**Frustrasi utama:** Capek mengoordinasi banyak vendor sendirian — mengejar penawaran satu per satu ke pihak yang tidak saling bicara, lalu khawatir ada yang jebol di celah antar-vendor menjelang hari-H.
+
+**Yang sebenarnya mereka mau:** Satu kontak yang meng-handle semuanya. Bukan penawaran termurah — tapi berhenti jadi lapisan koordinasi itu sendiri.
+
+**Bahasa asli yang benar-benar mereka pakai:**
+- *"Yang penting hari-H aman."*
+- *"Minta rundown sama rincian harganya dong."*
+- *"Cape nyari vendor satu-satu."*
+- *"Bisa handle semuanya gak?"*
+
+> **Penting — urutan masuk percakapan.** Yang mereka *ucapkan* adalah rasa aman di hari-H dan kejelasan biaya; yang mereka *rasakan* adalah lelah mengoordinasi. Jadi buka dengan jaminan hari-H dan rincian harga yang jelas, lalu jelaskan koordinasi satu operasi sebagai **alasan kenapa jaminan itu bisa dipegang**. Membuka langsung dengan "vendor fatigue" berarti menjawab masalah yang belum tentu mereka sadari sedang mereka alami.
+
+**Selera visual:** Foto lapangan dan dokumentasi asli — crew sedang setup, tenda berdiri, acara berjalan. Bukti eksekusi lebih meyakinkan daripada foto stock atau desain yang terlalu dipoles. Ini juga paling konsisten dengan archetype Caregiver-gaya-Volvo: tunjukkan buktinya, jangan ceritakan perasaannya.
 
 ---
 
