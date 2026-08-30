@@ -1,23 +1,32 @@
 # Durent Support — Foundation Document
 
-Built following the "Grow with Alex" Brain System — Foundation Builder step.
-Compiled from existing material (owner interviews across this session, `durent-context.md`, `branding/brand_identity.md`, the origin-story narrative work) rather than a fresh interview, since almost all of it had already surfaced. Anything inferred rather than stated outright is marked **[assume]** — flag it if wrong.
+Built following the "Grow with Alex" Brain System — Foundation Builder step. **Identity section rebuilt from scratch with the owner (Aug 2026) — locked.** Audience and Voice below are still the earlier synthesized draft, pending the same rebuild. Anything inferred rather than stated outright is marked **[assume]** — flag it if wrong.
 
 ---
 
-## Identity
+## Identity ✅ LOCKED
 
-Durent Support coordinates equipment rental, comms (HT/radio), crew, catering, and transport as **one operation** for film productions and events across Jabodetabek — instead of a client having to source and manage five separate vendors themselves.
+**Nama:** Durent Support — satu nama, tidak displit per segmen. (Opsi "Durent Event" / "Durent Group" sempat dipertimbangkan tapi ditunda: model bisnis segmen event masih fase validasi, dan 100% klien Q1 2026 datang dari warm referral — mesin akuisisi yang justru melemah kalau ada dua nama untuk diingat dan dirujuk. Bedanya cukup di positioning line dan tone, bukan nama.)
 
-**Brand words:** Direct. Grounded. Reliable. Coordinated. Warm — but not soft.
+**Kategori:** **Production Services** — payung yang berlaku untuk film maupun event (dua-duanya "produksi", beda jenis). Istilah ini dipilih setelah riset: definisi bakunya di industri persis mencakup kelima lini Durent (crew coordination, equipment rental, catering, locations, transportation), dan sekaligus menarik garis tegas dari "production company/rumah produksi" — yang mengerjakan sisi kreatif. Durent mengeksekusi, bukan membuat konsepnya. Ini penting karena production house sudah dipastikan bad-fit ICP.
+
+**Satu kalimat:** Durent Support mengoordinasikan equipment rental, peralatan komunikasi, crew, catering, dan transportasi jadi satu operasi untuk event dan produksi film di Jabodetabek — bukan lima vendor terpisah yang harus diurus klien sendiri.
+
+**Brand words:** Efisien. Reliable. Convenient. Direct. Grounded.
+
+**Archetype: Caregiver — dieksekusi dengan gaya Volvo, bukan Unicef.**
+Motivasi intinya *Service/protect*: memastikan operasi fisik acara klien tidak berantakan. Tapi cara menyampaikannya faktual — lewat angka, track record, dan bukti eksekusi — bukan lewat bahasa emosional atau menyentuh hati. Unicef menjual perasaan; Volvo menjual fakta keselamatan. Durent mengikuti Volvo.
+Brand message internal: **"Kami yang memastikan, bukan kami yang bercerita."**
+Ada bumbu tipis *Hero* di origin story (melihat masalah nyata di lapangan, lalu membangun solusinya sendiri) — tapi itu tekstur cerita, bukan archetype brand. Jangan pernah dinaikkan jadi nada inspirasional.
 
 **What the brand is NOT:**
-- Direct, but not aggressive or hard-sell.
-- Warm, but not cheesy, dramatized, or "storytelling" for its own sake — no manufactured scenes, no poetic language. Say the real thing plainly, the way Coco would actually say it.
-- Confident, but not corporate-jargon-heavy — no "ecosystem," "platform," "holistic solution." Durent runs a coordinated *operation/system*, not software — never describe it as a platform.
-- Reliable, but not generic "one-stop" — every incumbent in this category already claims "one-stop." Durent's actual claim is coordination across categories that don't normally work together, not catalog breadth.
+- Reliable, tapi bukan "one-stop" generik — semua kompetitor sudah pakai klaim itu. Pembeda Durent adalah koordinasi lintas kategori, bukan keluasan katalog.
+- Professional, tapi bukan kaku/jargon — tidak ada "platform", "ekosistem", "solusi holistik". Durent menjalankan operasi/sistem, bukan software.
+- Peduli/protektif, tapi bukan sentimental atau didramatisir — tidak ada adegan karangan, tidak ada bahasa puitis. Sampaikan apa adanya, seperti Coco bicara sungguhan.
 
-**Two segments, one brand:** Film/Commercial (legacy, English-forward, insider vocabulary — "Location Department as a Service") and Event (current priority — plain Bahasa Indonesia, price-forward, "Satu Operasi, Bukan Lima Vendor"). Same parent identity and visual system; the voice register shifts by segment, not the underlying character.
+**Dua segmen, satu brand:** Film/Commercial (English-forward, kosakata insider — "Location Department as a Service") dan Event (prioritas sekarang — Bahasa Indonesia lugas, price-forward, "Satu Operasi, Bukan Lima Vendor"). Identitas induk dan sistem visualnya sama; yang bergeser cuma register bahasa per segmen, bukan karakternya.
+
+**Catatan terbuka (belum diputuskan):** palet visual sekarang (navy + champagne gold) secara psikologis condong ke teritori *Ruler* (premium/status), sementara voice-nya Caregiver-grounded. Gold-nya dipakai tipis dan sudah tervalidasi dari deck yang berjalan, jadi ini bisa dibiarkan sebagai satu-satunya sentuhan "serius" — tapi ketegangannya nyata dan layak ditinjau ulang saat menyentuh visual system.
 
 ---
 
