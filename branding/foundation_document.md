@@ -1,6 +1,6 @@
 # Durent Support — Foundation Document
 
-Built following the "Grow with Alex" Brain System — Foundation Builder step. **Identity section rebuilt from scratch with the owner (Aug 2026) — locked.** Audience and Voice below are still the earlier synthesized draft, pending the same rebuild. Anything inferred rather than stated outright is marked **[assume]** — flag it if wrong.
+Built following the "Grow with Alex" Brain System — Foundation Builder step. **Identity, Audience, and Voice all rebuilt from scratch with the owner (Aug 2026) — fully locked.** Anything inferred rather than stated outright is marked **[assume]** — flag it if wrong.
 
 ---
 
@@ -26,7 +26,7 @@ Ada bumbu tipis *Hero* di origin story (melihat masalah nyata di lapangan, lalu 
 
 **Dua segmen, satu brand:** Film/Commercial (English-forward, kosakata insider — "Location Department as a Service") dan Event (prioritas sekarang — Bahasa Indonesia lugas, price-forward, "Satu Operasi, Bukan Lima Vendor"). Identitas induk dan sistem visualnya sama; yang bergeser cuma register bahasa per segmen, bukan karakternya.
 
-**Catatan terbuka (belum diputuskan):** palet visual sekarang (navy + champagne gold) secara psikologis condong ke teritori *Ruler* (premium/status), sementara voice-nya Caregiver-grounded. Gold-nya dipakai tipis dan sudah tervalidasi dari deck yang berjalan, jadi ini bisa dibiarkan sebagai satu-satunya sentuhan "serius" — tapi ketegangannya nyata dan layak ditinjau ulang saat menyentuh visual system.
+**Resolusi ketegangan Ruler-vs-Caregiver (sudah diputuskan di `visual_brain.md`):** palet navy + gold sempat condong ke teritori *Ruler* (premium/status), berlawanan dengan voice Caregiver-grounded. Diputuskan gold-nya tetap dipakai tapi diarahkan ke tone matte/tegas (bukan mengkilap-mewah) — jadi fungsinya sebagai penanda "ini fakta/angka penting", bukan status simbol. Lihat Colour System di `visual_brain.md` untuk hex dan aturan pemakaiannya.
 
 ---
 

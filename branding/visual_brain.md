@@ -82,13 +82,13 @@ Navy hanya di slide 1 dan 7 — bukan diselang-seling. Ini menjadikan warna gela
 
 **Pola foto:** Muncul di slide 3, 4, dan 5 (fase value) — mengikuti urutan proses → hasil → pemakaian dari Imagery Direction. Slide 1, 2, 6, 7 teks-saja di atas warna, tanpa foto — supaya slide berfoto benar-benar menonjol sebagai bukti, bukan tercampur jadi rutin.
 
-**Energi:** Tegang di awal, tenang di akhir. Slide 1 menyatakan masalah nyata (misal: koordinasi lima vendor terpisah) secara datar dan faktual — bukan didramatisir, cukup dinyatakan apa adanya sampai terasa nyata. Ketegangan mereda seiring slide value menunjukkan bagaimana Durent menanganinya, dan berakhir tenang di slide tension (bukti angka) serta CTA (ajakan simpel). Arc ini masalah → bukti → ketenangan, bukan masalah → drama → penyelesaian dramatis.
+**Energi:** Yakin di awal, tegang di tengah, tenang di akhir — **direvisi** dari draft awal untuk konsisten dengan aturan urutan percakapan di Audience (`foundation_document.md`): jangan buka dengan masalah vendor fatigue karena itu bukan yang disadari audiens sedang mereka rasakan. Slide 1 (hook) menyatakan janji dengan yakin dan datar — bukan pertanyaan dramatis, bukan juga masalah. Slide 2 (konteks) baru memperkenalkan kenyataan yang biasanya terjadi tanpa koordinasi (di sinilah ketegangan sebenarnya muncul, sebagai alasan kenapa janji itu perlu dibuktikan) — bukan didramatisir, cukup dinyatakan apa adanya. Ketegangan itu mereda seiring slide value menunjukkan bagaimana Durent menanganinya, dan berakhir tenang di slide tension (bukti angka) serta CTA (ajakan simpel).
 
 ## 6. Content Architecture ✅ LOCKED
 
 **Carousel: 7 slide**
-- **Slide 1 — Hook:** Navy. Maksimal 8 kata. Masalah nyata dinyatakan datar sebagai fakta (misal koordinasi lima vendor terpisah) — bukan pertanyaan retoris dramatis.
-- **Slide 2 — Konteks:** Putih. 10–15 kata. Menjelaskan situasi di balik masalah itu.
+- **Slide 1 — Hook:** Navy. Maksimal 8 kata. **Buka dengan janji, bukan masalah** — mis. "Hari-H acara Anda, kami pastikan aman." Dinyatakan datar dan yakin, bukan pertanyaan retoris. Ini konsisten dengan aturan urutan percakapan di Audience: yang diucapkan audiens adalah rasa aman, bukan capek koordinasi — jadi itu yang dibuka duluan.
+- **Slide 2 — Konteks:** Putih. 10–15 kata. Di sinilah alasan di balik janji itu masuk — kenyataan lima vendor terpisah yang biasanya bikin acara berantakan, dinyatakan sebagai fakta datar (bukan drama). Koordinasi satu operasi diperkenalkan di sini sebagai **alasan** kenapa janji di slide 1 bisa dipegang, bukan sebagai pembuka.
 - **Slide 3 — Value (Proses):** Putih + foto crew setup. Satu ide: bagaimana Durent bekerja di lapangan.
 - **Slide 4 — Value (Hasil):** Putih + foto venue/tenda siap. Satu ide: apa yang sudah beres sebelum klien datang.
 - **Slide 5 — Value (Pemakaian):** Putih + foto acara berjalan. Satu ide: bukti bahwa yang dibangun benar-benar dipakai dan berfungsi.

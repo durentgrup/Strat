@@ -48,4 +48,4 @@ Ini juga yang membuat pilihan-pilihan di `foundation_document.md` konsisten, buk
 
 ---
 
-**Next:** lapisan ini menaungi `foundation_document.md`, yang menaungi `visual_brain.md` (masih perlu ditinjau ulang), yang menaungi The One Prompt untuk produksi konten.
+**Next:** lapisan ini menaungi `foundation_document.md` dan `visual_brain.md` — keduanya sudah lengkap dikunci. Lihat `brand_guideline.md` (atau versi HTML-nya) untuk rangkuman satu-pintu dari ketiga dokumen ini.
