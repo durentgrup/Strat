@@ -101,4 +101,15 @@ Setiap carousel harus terasa sebagai satu alur (masalah → cara kerja → bukti
 
 **Stories (3–4 frame):** Cepat, satu ide per frame — cocok untuk behind-the-scenes real-time saat setup/acara berlangsung, karena ini format paling alami untuk momen "proses" yang sedang terjadi.
 
-## 7. Brand Marks — *belum dibahas*
+## 7. Brand Marks ✅ LOCKED
+
+- **Handle:** `@durentsupport` — dikonfirmasi langsung, bukan asumsi.
+- **Posisi:** Bawah kanan, di setiap slide, Slate Gray `#6B7280` dengan opacity 60%. CTA slide: full opacity, warna amber-gold.
+- **Sign-off/tagline:** Tidak dipakai sebagai elemen tetap. Keputusan sadar untuk tetap minimal — handle saja sudah cukup, tidak setiap konten perlu diakhiri tagline. "Satu Operasi, Bukan Lima Vendor" tetap dipakai sebagai positioning line di tempat yang butuh penjelasan lebih (proposal deck, bio, headline kampanye) — bukan diulang di penutup setiap post.
+- **Elemen tetap lain:** Wordmark lockup — dark-on-light untuk dokumen formal/web, white-on-dark untuk deck/sosial malam — tidak berubah lintas segmen film maupun event.
+
+---
+
+## Visual Brain — selesai
+
+Ketujuh lapis sudah dikunci bersama owner, dibangun di atas `brand_foundation.md` dan `foundation_document.md`. Dokumen ini siap dipakai sebagai instruksi Claude Project. Langkah berikutnya di Brain System: **The One Prompt** — begitu ada artikel/brief sumber dan (opsional) foto brand tambahan untuk dijadikan konten seminggu penuh.
