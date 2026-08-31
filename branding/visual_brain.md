@@ -84,6 +84,21 @@ Navy hanya di slide 1 dan 7 — bukan diselang-seling. Ini menjadikan warna gela
 
 **Energi:** Tegang di awal, tenang di akhir. Slide 1 menyatakan masalah nyata (misal: koordinasi lima vendor terpisah) secara datar dan faktual — bukan didramatisir, cukup dinyatakan apa adanya sampai terasa nyata. Ketegangan mereda seiring slide value menunjukkan bagaimana Durent menanganinya, dan berakhir tenang di slide tension (bukti angka) serta CTA (ajakan simpel). Arc ini masalah → bukti → ketenangan, bukan masalah → drama → penyelesaian dramatis.
 
-## 6. Content Architecture — *belum dibahas*
-## 6. Content Architecture — *belum dibahas*
+## 6. Content Architecture ✅ LOCKED
+
+**Carousel: 7 slide**
+- **Slide 1 — Hook:** Navy. Maksimal 8 kata. Masalah nyata dinyatakan datar sebagai fakta (misal koordinasi lima vendor terpisah) — bukan pertanyaan retoris dramatis.
+- **Slide 2 — Konteks:** Putih. 10–15 kata. Menjelaskan situasi di balik masalah itu.
+- **Slide 3 — Value (Proses):** Putih + foto crew setup. Satu ide: bagaimana Durent bekerja di lapangan.
+- **Slide 4 — Value (Hasil):** Putih + foto venue/tenda siap. Satu ide: apa yang sudah beres sebelum klien datang.
+- **Slide 5 — Value (Pemakaian):** Putih + foto acara berjalan. Satu ide: bukti bahwa yang dibangun benar-benar dipakai dan berfungsi.
+- **Slide 6 — Tension:** Putih, aksen amber-gold pada angka. 8–12 kata. Bukti track record (repeat rate, ROI, ketepatan waktu) — puncak faktual sebelum penutup.
+- **Slide 7 — CTA:** Navy. Ajakan chat langsung + handle/kontak — sesuai CTA style di Voice Rules. Tidak ditambah tagline atau angka lagi; cukup ajakan sederhana karena bukti sudah selesai disampaikan di slide 6.
+
+Setiap carousel harus terasa sebagai satu alur (masalah → cara kerja → bukti → ajakan), bukan kumpulan tips lepas.
+
+**Single post:** Satu foto lapangan (dari salah satu dari 3 momen) + satu klaim singkat, atau satu angka track record besar dengan aksen amber-gold.
+
+**Stories (3–4 frame):** Cepat, satu ide per frame — cocok untuk behind-the-scenes real-time saat setup/acara berlangsung, karena ini format paling alami untuk momen "proses" yang sedang terjadi.
+
 ## 7. Brand Marks — *belum dibahas*
