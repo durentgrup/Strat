@@ -69,6 +69,21 @@ Idealnya satu carousel memakai ketiganya secara berurutan (proses → hasil → 
 **Density: lega, banyak ruang kosong.** Maksimal 3 elemen visual per slide (headline + body + satu aksen, ATAU headline + foto + aksen). Ini keputusan sadar konsisten dengan voice "tegas tapi tidak berteriak" — slide padat kesannya jualan berlebihan, sementara ruang kosong menegaskan kepercayaan diri tanpa perlu berisik. Tabel harga/spesifikasi di proposal deck adalah pengecualian yang sudah ada dan tetap padat karena fungsinya beda (dokumen kerja, bukan konten sosial).
 
 **Margins:** Minimum 60px padding, 80px ideal untuk konten sosial. Tidak ada teks di 120px bawah (zona UI Instagram).
-## 5. Visual Rhythm — *belum dibahas*
+## 5. Visual Rhythm ✅ LOCKED
+
+**Pola background (carousel 7 slide):**
+1. Hook — **navy**, masalah dinyatakan datar sebagai fakta (bukan drama buatan — lihat Voice Rule "jangan dramatisir").
+2. Konteks — putih.
+3–5. Value — putih, diselingi foto lapangan sesuai urutan Imagery Direction (proses → hasil → pemakaian).
+6. Tension — putih, dengan aksen amber-gold menegaskan angka/statistik penting.
+7. CTA — **navy**, kembali ke warna hook untuk menutup lingkaran.
+
+Navy hanya di slide 1 dan 7 — bukan diselang-seling. Ini menjadikan warna gelap sebagai penanda "mulai" dan "selesai", konsisten dengan Colour System yang sudah dikunci.
+
+**Pola foto:** Muncul di slide 3, 4, dan 5 (fase value) — mengikuti urutan proses → hasil → pemakaian dari Imagery Direction. Slide 1, 2, 6, 7 teks-saja di atas warna, tanpa foto — supaya slide berfoto benar-benar menonjol sebagai bukti, bukan tercampur jadi rutin.
+
+**Energi:** Tegang di awal, tenang di akhir. Slide 1 menyatakan masalah nyata (misal: koordinasi lima vendor terpisah) secara datar dan faktual — bukan didramatisir, cukup dinyatakan apa adanya sampai terasa nyata. Ketegangan mereda seiring slide value menunjukkan bagaimana Durent menanganinya, dan berakhir tenang di slide tension (bukti angka) serta CTA (ajakan simpel). Arc ini masalah → bukti → ketenangan, bukan masalah → drama → penyelesaian dramatis.
+
+## 6. Content Architecture — *belum dibahas*
 ## 6. Content Architecture — *belum dibahas*
 ## 7. Brand Marks — *belum dibahas*
