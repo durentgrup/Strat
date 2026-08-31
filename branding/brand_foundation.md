@@ -20,14 +20,16 @@ Mengeksekusi setiap job dengan rekam jejak yang benar-benar terbukti. Pertumbuha
 
 > **Catatan jujur:** ini menandakan energi ke depan idealnya lebih berat ke sisi eksekusi lapangan yang terbukti (dan mendokumentasikannya untuk imagery, sesuai arahan Audience di atas) ketimbang konten/awareness — pantau agar upaya branding dan riset-riset seperti ini tidak diam-diam menggeser porsi kerja dari mission yang baru dikunci.
 
-## Core Values
+## Core Values — C.R.E.A.T.E
 
-Empat aturan perilaku internal — kalau salah satu dilanggar tim, itu masalah besar, bukan sekadar kesalahan kecil:
+Enam aturan perilaku internal, disingkat jadi C.R.E.A.T.E supaya gampang diingat dan ditempel — tapi tiap kata dikasih definisi perilaku konkret di baliknya, bukan sekadar kata sifat generik. Kalau salah satu dilanggar tim, itu masalah besar, bukan sekadar kesalahan kecil:
 
-1. **Selalu bayar dan hubungi vendor tepat waktu.** Ini langsung melawan pola "vendor fatigue" yang sudah diakui sebagai masalah internal — Durent tidak boleh jadi bagian dari masalah yang sedang ia coba selesaikan untuk kliennya.
-2. **Tidak janji yang tidak bisa dipegang.** Lebih baik jujur bilang tidak sanggup daripada over-promise lalu gagal di lapangan.
-3. **Follow-through sampai selesai, bukan cuma sampai closing.** Tanggung jawab tidak berhenti begitu deal jadi — lanjut sampai hari-H benar-benar beres.
-4. **Transparan soal harga dan proses sejak awal.** Tidak ada biaya tersembunyi atau proses yang di-black-box ke klien.
+1. **Care.** Peduli dibuktikan lewat eksekusi yang benar — bukan lewat kata-kata yang menyentuh. Kalau tidak bisa dibuktikan lewat aksi, jangan diucapkan. (Pagar eksplisit ini penting karena archetype Durent Caregiver-gaya-Volvo — proteksi dibuktikan lewat fakta, bukan sentimen.)
+2. **Responsible.** Follow-through sampai selesai, bukan cuma sampai closing. Tidak janji yang tidak bisa dipegang — lebih baik jujur bilang tidak sanggup daripada over-promise lalu gagal di lapangan.
+3. **Efficient.** Tidak buang waktu atau biaya klien maupun vendor untuk hal yang tidak perlu.
+4. **Agile.** Cepat menyesuaikan diri kalau ada perubahan mendadak di lapangan atau di bisnis — bukan kaku pada rencana awal.
+5. **Transparency.** Harga dan proses jelas sejak awal, tidak ada yang di-black-box ke klien. Ini juga langsung melawan pola "vendor fatigue" yang sudah diakui sebagai masalah internal — Durent tidak boleh jadi bagian dari masalah yang sedang ia coba selesaikan untuk kliennya: selalu bayar dan hubungi vendor tepat waktu.
+6. **Execution.** Reputasi dibangun dari job yang selesai tepat waktu, bukan dari klaim atau konten. Ini penerjemahan langsung dari Mission — kalau harus dibuktikan, buktikan lewat kerjaan yang beres.
 
 ## Brand Promise
 
@@ -37,7 +39,7 @@ Empat aturan perilaku internal — kalau salah satu dilanggar tim, itu masalah b
 
 ## Bagaimana ini menyatu jadi satu alur
 
-Fragmentasi vendor (**Purpose**) adalah masalah yang mau dihapus dengan menjadi nama yang dipercaya untuk itu di Jabodetabek (**Vision**) — dicapai bukan lewat klaim atau kampanye, tapi lewat rekam jejak eksekusi yang terbukti job demi job (**Mission**) — yang hanya bisa terbukti kalau empat aturan perilaku dijaga tanpa kompromi (**Core Values**) — dan semuanya bermuara ke satu hal konkret yang dirasakan klien: mereka cukup punya satu kontak, dan semua beres (**Brand Promise**).
+Fragmentasi vendor (**Purpose**) adalah masalah yang mau dihapus dengan menjadi nama yang dipercaya untuk itu di Jabodetabek (**Vision**) — dicapai bukan lewat klaim atau kampanye, tapi lewat rekam jejak eksekusi yang terbukti job demi job (**Mission**) — yang hanya bisa terbukti kalau enam aturan perilaku C.R.E.A.T.E dijaga tanpa kompromi (**Core Values**) — dan semuanya bermuara ke satu hal konkret yang dirasakan klien: mereka cukup punya satu kontak, dan semua beres (**Brand Promise**).
 
 Ini juga yang membuat pilihan-pilihan di `foundation_document.md` konsisten, bukan kebetulan:
 - **Archetype Caregiver-gaya-Volvo** (buktikan dengan angka, bukan cerita) adalah ekspresi voice dari Mission "berbuat, bukan mengklaim".
