@@ -57,7 +57,18 @@ Idealnya satu carousel memakai ketiganya secara berurutan (proses → hasil → 
 - Ilustrasi atau vector kartun menggantikan foto asli — kesan generik startup-deck, bertentangan langsung dengan prinsip bukti-lapangan.
 - Foto stock generik atau pose berlebihan (sudah tersirat dari Audience — "bukan foto stock" adalah preferensi eksplisit, bukan asumsi).
 
-## 4. Layout & Composition — *belum dibahas*
+## 4. Layout & Composition ✅ LOCKED
+
+**Dimensions:**
+- Feed Instagram: 1080×1350 (carousel/portrait) dan 1080×1080 (single post) — format utama.
+- Stories: 1080×1920 — update harian/behind-the-scenes.
+- Proposal/deck: landscape/A4, format dan gaya yang sudah berjalan (glassmorphism price card di atas navy) dipertahankan apa adanya — tidak perlu didesain ulang.
+
+**Text positioning:** Upper third atau kiri-rata untuk slide value. Hook slide: tengah, besar. CTA slide: tengah horizontal & vertikal.
+
+**Density: lega, banyak ruang kosong.** Maksimal 3 elemen visual per slide (headline + body + satu aksen, ATAU headline + foto + aksen). Ini keputusan sadar konsisten dengan voice "tegas tapi tidak berteriak" — slide padat kesannya jualan berlebihan, sementara ruang kosong menegaskan kepercayaan diri tanpa perlu berisik. Tabel harga/spesifikasi di proposal deck adalah pengecualian yang sudah ada dan tetap padat karena fungsinya beda (dokumen kerja, bukan konten sosial).
+
+**Margins:** Minimum 60px padding, 80px ideal untuk konten sosial. Tidak ada teks di 120px bawah (zona UI Instagram).
 ## 5. Visual Rhythm — *belum dibahas*
 ## 6. Content Architecture — *belum dibahas*
 ## 7. Brand Marks — *belum dibahas*
