@@ -22,7 +22,23 @@ Setelah semua 7 lapis selesai, paste seluruh dokumen ini + `foundation_document.
 
 ---
 
-## 2. Typography — *belum dibahas*
+## 2. Typography ✅ LOCKED
+
+**Hierarchy:**
+- **Headline:** Plus Jakarta Sans, ExtraBold (800). Sentence case — **bukan ALL CAPS**. Keputusan sadar: ALL CAPS kesannya berteriak/hype, sementara voice Durent tegas tapi tidak dramatis. Maksimal 8 kata di slide hook.
+- **Subheading:** Plus Jakarta Sans, SemiBold (600).
+- **Body/spec/harga:** Inter, Regular (400) untuk paragraf, Medium (500) untuk angka/harga supaya menonjol tanpa perlu warna tambahan.
+- **CTA:** Plus Jakarta Sans, Bold (700), singkat — sentence case juga, konsisten dengan headline.
+
+**Kenapa pairing ini:** wordmark Durent geometric-bold-rounded; Plus Jakarta Sans mengikuti karakter itu untuk headline tanpa meniru logotype secara langsung. Inter jadi kuda beban untuk teks padat (spesifikasi, tabel harga) karena paling legible di ukuran kecil dan bilingual (ID/EN).
+
+**Text rules:**
+- Slide hook: maksimal 8 kata. Slide value/body: maksimal 15 kata.
+- Setiap slide sosial minimal pakai 2 font (headline + body) untuk kontras visual.
+- Minimum ukuran: 48px headline, 32px body pada carousel 1080×1350.
+- Kontras teks-latar wajib tinggi — navy-on-white atau white-on-navy, tidak ada abu-abu tipis di atas putih untuk body penting.
+
+## 3. Imagery Direction — *belum dibahas*
 ## 3. Imagery Direction — *belum dibahas*
 ## 4. Layout & Composition — *belum dibahas*
 ## 5. Visual Rhythm — *belum dibahas*
