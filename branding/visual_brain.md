@@ -38,8 +38,25 @@ Setelah semua 7 lapis selesai, paste seluruh dokumen ini + `foundation_document.
 - Minimum ukuran: 48px headline, 32px body pada carousel 1080×1350.
 - Kontras teks-latar wajib tinggi — navy-on-white atau white-on-navy, tidak ada abu-abu tipis di atas putih untuk body penting.
 
-## 3. Imagery Direction — *belum dibahas*
-## 3. Imagery Direction — *belum dibahas*
+## 3. Imagery Direction ✅ LOCKED
+
+**Aesthetic:** Dokumentasi lapangan asli, bukan foto stock atau setup studio. Ini turunan langsung dari Audience ("bukti eksekusi lebih meyakinkan daripada foto stock") dan archetype Caregiver-gaya-Volvo ("tunjukkan buktinya, jangan ceritakan perasaannya").
+
+**Momen yang dipakai (tiga jenis, saling melengkapi jadi satu narasi):**
+1. **Proses** — crew sedang setup, angkut equipment, briefing. Menunjukkan kerja benar-benar terjadi, bukan cuma hasil jadi.
+2. **Hasil** — tenda berdiri rapi, venue full-setup sebelum acara mulai. Bukti hasil akhirnya matang sebelum klien datang.
+3. **Pemakaian** — acara berlangsung, venue/tenda dipakai dan ramai. Bukti bahwa yang dibangun benar-benar fungsional, bukan cuma foto kosong.
+
+Idealnya satu carousel memakai ketiganya secara berurutan (proses → hasil → pemakaian) sebagai bukti siklus penuh, bukan cuma satu momen terisolasi.
+
+**Colour treatment:** Apa adanya — tidak ada filter berat atau colour grading dramatis yang menutupi kondisi asli. Ini bukan pilihan estetika, tapi konsekuensi dari "bukti, bukan estetika": foto yang terlalu dipoles justru mengurangi kredibilitasnya sebagai bukti.
+
+**Text placement:** Teks di upper third, overlay navy 30–40% (lihat Colour System) — cukup untuk keterbacaan, tidak menutupi fokus foto.
+
+**Off-brand — jangan pernah pakai:**
+- Ilustrasi atau vector kartun menggantikan foto asli — kesan generik startup-deck, bertentangan langsung dengan prinsip bukti-lapangan.
+- Foto stock generik atau pose berlebihan (sudah tersirat dari Audience — "bukan foto stock" adalah preferensi eksplisit, bukan asumsi).
+
 ## 4. Layout & Composition — *belum dibahas*
 ## 5. Visual Rhythm — *belum dibahas*
 ## 6. Content Architecture — *belum dibahas*
